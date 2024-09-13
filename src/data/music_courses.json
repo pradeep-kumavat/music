@@ -1,0 +1,137 @@
+{
+    "courses": [
+        
+            {
+                "id": 1,
+                "title": "Guitar Fundamentals",
+                "slug": "guitar-fundamentals",
+                "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+                "price": 99.99,
+                "instructor": "John Doe",
+                "isFeatured": true
+             
+            },
+            {
+                "id": 2,
+                "title": "Piano for Beginners",
+                "slug": "piano-for-beginners",
+                "description": "Start playing piano with easy-to-follow lessons for complete beginners.",
+                "price": 89.99,
+                "instructor": "Jane Smith",
+                "isFeatured": true
+             
+            },
+            {
+                "id": 3,
+                "title": "Advanced Violin Techniques",
+                "slug": "advanced-violin-techniques",
+                "description": "Enhance your violin skills with advanced techniques and exercises.",
+                "price": 149.99,
+                "instructor": "Yitzhak Perlman",
+                "isFeatured": false
+               
+            },
+            {
+                "id": 4,
+                "title": "Flute Mastery",
+                "slug": "flute-mastery",
+                "description": "Master the flute with comprehensive lessons and practice routines.",
+                "price": 129.99,
+                "instructor": "Jean-Pierre Rampal",
+                "isFeatured": false
+               
+            },
+            {
+                "id": 5,
+                "title": "Drumming Essentials",
+                "slug": "drumming-essentials",
+                "description": "Learn the essential techniques and rhythms every drummer should know.",
+                "price": 119.99,
+                "instructor": "John Bonham",
+                "isFeatured": true
+            
+            },
+            {
+                "id": 6,
+                "title": "Saxophone for Jazz",
+                "slug": "saxophone-for-jazz",
+                "description": "Learn to play jazz on the saxophone with detailed improvisation techniques.",
+                "price": 139.99,
+                "instructor": "Charlie Parker",
+                "isFeatured": true
+              
+            },
+            {
+                "id": 7,
+                "title": "Classical Clarinet Basics",
+                "slug": "classical-clarinet-basics",
+                "description": "Start your clarinet journey with this beginner-friendly course.",
+                "price": 99.99,
+                "instructor": "Sabine Meyer"
+               
+            },
+            {
+                "id": 8,
+                "title": "Trumpet Techniques",
+                "slug": "trumpet-techniques",
+                "description": "Master the techniques needed to play the trumpet with confidence.",
+                "price": 119.99,
+                "instructor": "Louis Armstrong",
+                "isFeatured": true
+             
+            },
+            {
+                "id": 9,
+                "title": "Cello for Beginners",
+                "slug": "cello-for-beginners",
+                "description": "Learn to play the cello with step-by-step lessons for beginners.",
+                "price": 109.99,
+                "instructor": "Yo-Yo Ma",
+                "isFeatured": false
+              
+            },
+            {
+                "id": 10,
+                "title": "Harp Fundamentals",
+                "slug": "harp-fundamentals",
+                "description": "Discover the basics of playing the harp with this comprehensive course.",
+                "price": 149.99,
+                "instructor": "Alice Giles",
+                "isFeatured": true
+        
+            },
+            {
+                "id": 11,
+                "title": "Bass Guitar Basics",
+                "slug": "bass-guitar-basics",
+                "description": "Learn to play the bass guitar with foundational techniques and exercises.",
+                "price": 99.99,
+                "instructor": "Flea"
+               
+            },
+            
+            {
+                "id": 12,
+                "title": "Ukulele Strumming Patterns",
+                "slug": "ukulele-strumming-patterns",
+                "description": "Master various strumming patterns to play songs on the ukulele.",
+                "price": 89.99,
+                "instructor": "Jake Shimabukuro",
+                "isFeatured": true
+               
+            },
+            {
+                "id": 13,
+                "title": "Accordion for Beginners",
+                "slug": "accordion-for-beginners",
+                "description": "Learn to play the accordion with easy-to-follow beginner lessons.",
+                "price": 109.99,
+                "instructor": "Lawrence Welk",
+                "isFeatured": false
+          
+            }
+        ]
+        
+            
+    
+}
