@@ -18,7 +18,7 @@ function HeroSection() {
         </h1>
         <p
           className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
-          Dive into our comprehensive music courses and transform your musical journey today. Whether you're begineer or looking to refine your skills, join us to unlock your true potential.
+          Dive into our comprehensive music courses and transform your musical journey today. Whether you &apos; re begineer or looking to refine your skills, join us to unlock your true potential.
         </p>
       </div>
       <div className="mt-4">

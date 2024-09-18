@@ -11,7 +11,7 @@ const MusicSchoolContent = [
     {
         title: "Beats of Serenity",
         description: 
-            "Find your peace with Beats of Serenity. This album features a mix of chillout and downtempo tracks that create a calming atmosphere. Whether you're meditating, practicing yoga, or just relaxing, these soothing beats will help you find your inner calm.",
+            "Find your peace with Beats of Serenity. This album features a mix of chillout and downtempo tracks that create a calming atmosphere. Whether you are meditating, practicing yoga, or just relaxing, these soothing beats will help you find your inner calm.",
     },
     {
         title: "Acoustic Reflections",
